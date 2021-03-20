@@ -1,5 +1,11 @@
-- Hello world, I'm @pluffie.
-- I'm C++ programmer.
+Hello world, my name is @pluffie.
+
+### Todo List
+[] Grape (C++ Console UI Library)
+[] Edeet (Real-Time Text Editor)
+
+### Feed
+- Nothing interesting now...
 
 <!---
 pluffie/pluffie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
