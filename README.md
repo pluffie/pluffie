@@ -1,4 +1,5 @@
-Hello world!
+- Hello world, I'm @pluffie.
+- I'm C++ programmer.
 
 <!---
 pluffie/pluffie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
