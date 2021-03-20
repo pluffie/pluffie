@@ -1,8 +1,8 @@
 Hello world, my name is @pluffie.
 
 ### Todo List
-[] Grape (C++ Console UI Library)
-[] Edeet (Real-Time Text Editor)
+- [x] Grape (C++ Console UI Library)
+- [ ] Edeet (Real-Time Text Editor)
 
 ### Feed
 - Nothing interesting now...
