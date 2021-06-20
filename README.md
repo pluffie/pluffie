@@ -1,13 +1,13 @@
-Hello world, my name is @pluffie.
-<!---
-### Todo List
-- [ ] Grape (C++ Console UI Library)
-- [ ] Edeet (Real-Time Text Editor)
+Hello world, my name is @pluffie. I'm C++/TypeScript developer.
 
-### Feed
-- Nothing interesting now...
---->
-<!---
-pluffie/pluffie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current projects
+-----
+| Project   | Description               | Priority | Status |        |
+|:----------|:--------------------------|:--------:|:------:|:------:|
+| Nuke GUI  | Framework for electron.js | High     | Alpha  |        |
+| Grape     | Build system              | Low      | Alpha  |        |
+| Nucleon   | Yet another code editor   | None     | Alpha  | Frozen |
+
+Contact me
+-----
+Discord: pluffie#2077
