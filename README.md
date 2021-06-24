@@ -4,7 +4,7 @@ Current projects
 -----
 | Project   | Description               | Priority | Status |        |
 |:----------|:--------------------------|:--------:|:------:|:------:|
-| Grape     | Build system              | Low      | Alpha  |        |
+| Grape     | Build system              | Low      | Alpha  | Frozen |
 
 Contact me
 -----
