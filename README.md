@@ -1,1 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/?username=pluffie&layout=compact&hide_border=true&theme=dracula&custom_title=GitHub Statistics&include_all_commits=true&show_icons=true">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluffie&layout=compact&hide_border=true&theme=dracula">
+    <!--<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluffie&repo=pluffie&hide_border=true&theme=dracula">-->
+</div>
