@@ -1,5 +1,7 @@
-<img
-  src="https://raw.githubusercontent.com/pluffie/pluffie/main/Vanilla-1s-280px.gif"
-  style="width: 100%">
+### About
+Yet another dev. Like cats, pizza and neovim.
 
-Did you expect something else?
+---
+
+### Links
+- [My dotfiles](https://github.com/pluffie/dotfiles/tree/main)
